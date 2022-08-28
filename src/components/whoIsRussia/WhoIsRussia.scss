@@ -1,0 +1,30 @@
+$killerIMG: "https://ichef.bbci.co.uk/news/640/cpsprodpb/15EF0/production/_125004898_7b67dcad-ea8d-436f-9197-706d7a5f45db.jpg";
+$warIMG: "https://dan-news.info/storage/c/2022/04/09/1649484961_745132_95.jpg";
+
+.blood {
+    color: #ac0101;
+}
+
+.killer {
+    width: 100vw;
+    height: 100vh;
+    background-color: #ac01018a;
+    h2 {
+        background: url($killerIMG) no-repeat center/cover;
+
+        font-weight: 900;
+        font-size: 21vw;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+.war {
+    h2 {
+        background: url($warIMG) no-repeat center/cover;
+        font-weight: 900;
+        font-size: 21vw;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}

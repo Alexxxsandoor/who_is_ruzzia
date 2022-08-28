@@ -1,0 +1,48 @@
+// .holodomor {
+//     display: grid;
+//     grid-template-columns: repeat(8, 1fr);
+//     grid-template-rows: repeat(8, 5vw);
+//     grid-gap: 15px;
+//     img {
+//         max-height: 60vh;
+//         max-width: 25vw;
+//     }
+// }
+
+.heading span {
+    display: block;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    /* Compensate for excess margin on outer gallery flex items */
+}
+
+.gallery-item {
+    /* Minimum width of 24rem and grow to fit available space */
+    flex: 1 0 24rem;
+    /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+    overflow: hidden;
+}
+
+.gallery-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 400ms ease-out;
+}
+
+@supports (display: grid) {
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+        grid-gap: 0rem;
+    }
+
+    .gallery,
+    .gallery-item {
+        margin: 0;
+    }
+}

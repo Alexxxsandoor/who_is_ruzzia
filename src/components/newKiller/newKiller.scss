@@ -1,0 +1,87 @@
+.king-killer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    img {
+        max-width: 30vw;
+        max-height: 50vh;
+    }
+    .new-killer {
+        line-height: 0.5;
+        span {
+            color: #ac0101;
+        }
+        h2 {
+            font-size: 3em;
+            span {
+                font-size: 4em;
+                background: url(../../image/killer.png) no-repeat center/cover;
+                font-weight: 900;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+        }
+        h4 {
+            font-size: 2em;
+        }
+        p {
+            font-size: 1.3em;
+        }
+    }
+    .image-killer {
+        h4 {
+            color: #ac0101;
+            text-align: center;
+            font-size: 1.3em;
+        }
+    }
+}
+
+@media (max-width: 850px) {
+    .king-killer {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        .image-killer {
+            width: 90vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            img {
+                max-width: 35vw;
+                max-height: 45vh;
+                min-width: 270px;
+                min-height: 170px;
+            }
+        }
+        .new-killer {
+            line-height: 30px;
+            h2 {
+                font-size: 2em;
+            }
+        }
+    }
+}
+@media (max-width: 400px) {
+    .king-killer {
+        img {
+            margin-bottom: -20px;
+        }
+        .new-killer {
+            h2 {
+                span {
+                    font-size: 3em;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 375px) {
+    .king-killer {
+        img {
+            margin-bottom: -60px;
+        }
+    }
+}

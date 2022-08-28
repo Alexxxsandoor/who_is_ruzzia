@@ -1,0 +1,36 @@
+.dateYear {
+    text-align: center;
+    width: 100%;
+    line-height: 0.5;
+}
+.country {
+    text-transform: uppercase;
+}
+.country,
+.repression {
+    font-size: 0.4em;
+    color: #ffffff;
+}
+.repression {
+    color: #ac0101;
+}
+.score {
+    span {
+        color: #ac0101;
+    }
+
+    font-weight: 200;
+    font-size: 34px;
+}
+@media (max-width: 600px) {
+    .dateYear {
+        text-align: center;
+        line-height: 1;
+        width: 80vw;
+    }
+
+    .country,
+    .repression {
+        font-size: 1em;
+    }
+}

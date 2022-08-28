@@ -1,0 +1,33 @@
+.kill-schedule {
+    h5 {
+        font-size: 20px;
+        max-width: 350px;
+        span {
+            color: #ac0101;
+        }
+    }
+    h6 {
+        font-size: 20px;
+        color: #ac0101;
+    }
+}
+@media (max-width: 900px) {
+    .kill-schedule {
+        line-height: 0.1;
+        h5 {
+            width: 80vw;
+        }
+    }
+    .total {
+        line-height: 1;
+    }
+}
+
+@media (max-width: 300px) {
+    .kill-schedule {
+        line-height: 1;
+        h5 {
+            width: 80vw;
+        }
+    }
+}

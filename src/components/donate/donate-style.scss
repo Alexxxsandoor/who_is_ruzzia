@@ -1,0 +1,19 @@
+.donate {
+    text-align: center;
+    margin: 20% auto;
+    width: 80vw;
+    font-size: 2.2vh;
+    font-weight: 600;
+    a {
+        color: #e26f6f;
+    }
+    a:hover {
+        color: #777777;
+    }
+}
+
+@media (max-width: 600px) {
+    .donate {
+        font-size: 2.4vh;
+    }
+}

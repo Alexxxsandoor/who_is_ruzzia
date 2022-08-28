@@ -1,0 +1,10 @@
+.message {
+    h2 {
+        font-size: 2em;
+    }
+}
+@media (max-width: 600px) {
+    .message {
+        width: 80vw;
+    }
+}
