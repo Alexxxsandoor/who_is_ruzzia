@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/who_is_ruzzia/static/css/main.78214dcc.css",
+    "main.js": "/who_is_ruzzia/static/js/main.3c6f4245.js",
+    "static/media/stalyn.gif": "/who_is_ruzzia/static/media/stalyn.c4c55660a672744c6a79.gif",
+    "static/media/khrushchev.gif": "/who_is_ruzzia/static/media/khrushchev.d01cc40fc739729fe4f3.gif",
+    "static/media/brezhnev.gif": "/who_is_ruzzia/static/media/brezhnev.a0969c57a59d36494775.gif",
+    "static/media/putin.gif": "/who_is_ruzzia/static/media/putin.e662a24dc546074e1d1a.gif",
+    "static/media/yeltsin.gif": "/who_is_ruzzia/static/media/yeltsin.0b23d17a2ff7728148e2.gif",
+    "static/media/img6.jpg": "/who_is_ruzzia/static/media/img6.672207c75538e604a5e2.jpg",
+    "static/media/img17.jpg": "/who_is_ruzzia/static/media/img17.98441ce4bd682a83e322.jpg",
+    "static/media/img10.jpg": "/who_is_ruzzia/static/media/img10.eec1a471f8fa28db7dab.jpg",
+    "static/media/img3.jpg": "/who_is_ruzzia/static/media/img3.7f379915d23f6d3ad79c.jpg",
+    "static/media/img13.jpg": "/who_is_ruzzia/static/media/img13.be8d58f9ea2a987a3a5b.jpg",
+    "static/media/img15.jpg": "/who_is_ruzzia/static/media/img15.bc77e27809b05a32ba2a.jpg",
+    "static/media/img11.jpg": "/who_is_ruzzia/static/media/img11.e9ad4847195eaece6837.jpg",
+    "static/media/img14.jpg": "/who_is_ruzzia/static/media/img14.fc61faba25679e0e9982.jpg",
+    "static/media/img1.jpg": "/who_is_ruzzia/static/media/img1.98fc340d47996518c54b.jpg",
+    "static/media/img21.jpg": "/who_is_ruzzia/static/media/img21.8f1e085f7f411a372488.jpg",
+    "static/media/andropov-chernenko-1983.jpg": "/who_is_ruzzia/static/media/andropov-chernenko-1983.0e7a314b5565ce4f8a01.jpg",
+    "static/media/gorbachev.jpg": "/who_is_ruzzia/static/media/gorbachev.c51b51a02457d131605b.jpg",
+    "static/media/img12.jpg": "/who_is_ruzzia/static/media/img12.7ec9a94acbdf59074975.jpg",
+    "static/media/img19.jpg": "/who_is_ruzzia/static/media/img19.10a218f8670bf6fc70d0.jpg",
+    "static/media/img9.jpg": "/who_is_ruzzia/static/media/img9.b4171ceeb3d22ab4ff11.jpg",
+    "static/media/img2.jpg": "/who_is_ruzzia/static/media/img2.8df7475aebdbaa4ae5d1.jpg",
+    "static/media/img4.jpg": "/who_is_ruzzia/static/media/img4.bee023a9b22b5b91602d.jpg",
+    "static/media/img18.jpg": "/who_is_ruzzia/static/media/img18.9e2ab77eb35fce5af784.jpg",
+    "static/media/img7.jpg": "/who_is_ruzzia/static/media/img7.766c7cc1f7bfa0bb9ccc.jpg",
+    "static/media/img20.jpg": "/who_is_ruzzia/static/media/img20.ddd4e5eb96d05d503153.jpg",
+    "static/media/killer.png": "/who_is_ruzzia/static/media/killer.fbef3181ed65058e23b4.png",
+    "static/media/img8.jpg": "/who_is_ruzzia/static/media/img8.6f68a63cf0a0bfa668d8.jpg",
+    "static/media/img5.jpg": "/who_is_ruzzia/static/media/img5.6f9d8ba4887ae3483ccf.jpg",
+    "static/media/img16.jpg": "/who_is_ruzzia/static/media/img16.8dd4196ae0060cff8b8c.jpg",
+    "index.html": "/who_is_ruzzia/index.html",
+    "main.78214dcc.css.map": "/who_is_ruzzia/static/css/main.78214dcc.css.map",
+    "main.3c6f4245.js.map": "/who_is_ruzzia/static/js/main.3c6f4245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78214dcc.css",
+    "static/js/main.3c6f4245.js"
+  ]
+}
